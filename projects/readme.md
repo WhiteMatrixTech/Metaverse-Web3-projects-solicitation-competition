@@ -57,8 +57,14 @@ Web3go 是一个开放的Web3.0数据平台，专注于对 Polkadot, Ethereum, N
 ## 视频链接：
 
 https://www.youtube.com/watch?v=D9lp86655ss&t=5s
+
+
 https://www.youtube.com/watch?v=cPh3ykXdjJk&t=17s
+
+
 https://www.youtube.com/watch?v=KlqhmfghlKg&t=118s
+
+
 https://www.youtube.com/watch?v=jp_-wP9UhBs
 <br>
 
