@@ -1,6 +1,15 @@
 ## 项目名称： Web3Go
 <br>
 
+## PPT 链接： https://drive.google.com/file/d/1f4og5MxKEHzUeKzLjJOjrR6fx0qAesAH/view?usp=sharing
+<br>
+
+
+## 网址： https://web3go.xyz/#/
+
+<br>
+
+
 
 ## 队内分工：
 
@@ -72,4 +81,3 @@ https://www.youtube.com/watch?v=jp_-wP9UhBs
 
 <br>
 
-## 网址： https://web3go.xyz/#/
