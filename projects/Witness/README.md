@@ -20,5 +20,5 @@
 https://www.youtube.com/watch?v=BImmnfoMPuU
 
 # 仓库地址（含ppt）：
-https://github.com/DessertHeart/Web3GamingBootcamp_CN/tree/master/10
+https://github.com/DessertHeart/Metaverse-Web3-projects-solicitation-competition/tree/main/projects/Witness/client
 ![image](https://github.com/DessertHeart/Metaverse-Web3-projects-solicitation-competition/blob/main/projects/Witness/client/src/assets/Witness_01.png)
