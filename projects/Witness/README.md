@@ -19,6 +19,6 @@
 # 视频链接：
 https://www.youtube.com/watch?v=BImmnfoMPuU
 
-# 仓库地址（含ppt）：
+# 仓库地址（含ppt、白皮书）：
 https://github.com/DessertHeart/Metaverse-Web3-projects-solicitation-competition/tree/main/projects/Witness
 ![image](https://github.com/DessertHeart/Metaverse-Web3-projects-solicitation-competition/blob/main/projects/Witness/client/src/assets/Witness_01.png)
