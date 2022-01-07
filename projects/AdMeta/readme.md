@@ -12,13 +12,13 @@ https://docs.google.com/presentation/d/1z7VnHjpCLo2gxB6Z1hGx7JpfRo114PTm/edit?us
 
 **赵汉 - 产品设计/区块链开发**
 
-GitHub: https://github.com/h4n0\
+GitHub: https://github.com/h4n0 \
 Litentry 区块链核心开发工程师\
 斯图加特大学计算机学硕士
 
 **赵世豪 - Webapp/网站开发**
 
-GitHub: https://github.com/Shihao66\
+GitHub: https://github.com/Shihao66 \
 Litentry 后端开发工程师\
 多伦多大学计算机科学学士
 
