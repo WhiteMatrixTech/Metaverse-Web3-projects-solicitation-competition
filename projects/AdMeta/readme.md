@@ -38,7 +38,7 @@ AdMeta 作为元宇宙的广告平台，致力于保障 Web3 用户的隐私安�
 
 # 视频链接：
 
-https://youtu.be/8yUvVrSOADI
+https://youtu.be/4PZkMhvfJJ8
 
 # 仓库地址：
 
