@@ -29,4 +29,4 @@ Youtube：https://youtu.be/N6Tp_fFbZ5E
 
 ## 仓库地址（含白皮书）
 
-### 
+https://github.com/suiqiyuan/Metaverse-Web3-projects-solicitation-competition/tree/main/projects/Random%20Survivor
