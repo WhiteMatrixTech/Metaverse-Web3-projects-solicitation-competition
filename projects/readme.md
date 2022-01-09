@@ -14,3 +14,11 @@
 
 仓库地址：https://github.com/SeavantUUz/Metaverse-Web3-projects-solicitation-competition/tree/main/projects
 
+游戏截图
+
+![homepage](https://github.com/SeavantUUz/Metaverse-Web3-projects-solicitation-competition/blob/main/projects/homepage.png?raw=true)
+
+![mint](https://github.com/SeavantUUz/Metaverse-Web3-projects-solicitation-competition/blob/main/projects/mint.png?raw=true)
+
+![battle](https://github.com/SeavantUUz/Metaverse-Web3-projects-solicitation-competition/blob/main/projects/battle.png?raw=true)
+
